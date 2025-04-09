@@ -15,6 +15,13 @@ namespace gitlesson.NewFolder
         }
 
 
+         public bool password2()
+        {
+
+            return false;
+        }
+
+
 
 
 
