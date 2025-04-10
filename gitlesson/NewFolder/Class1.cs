@@ -43,6 +43,20 @@ namespace gitlesson.NewFolder
             return false;
         }
 
+        public bool password9()
+        {
+
+            return false;
+        }
+
+     
+        public bool password10()
+        {
+
+            return false;
+        }
+
+     
 
 
 
